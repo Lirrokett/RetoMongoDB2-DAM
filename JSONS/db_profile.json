@@ -1,0 +1,49 @@
+[
+  {
+    "P_ID": 1,
+    "ROLE": "ADMIN",
+    "P_EMAIL": "admin@sandia.com",
+    "P_USERNAME": "admin",
+    "P_PASSWORD": "Ab123456",
+    "P_NAME": "Admin",
+    "P_LASTNAME": "Sandia",
+    "P_TELEPHONE": "123456789",
+    "A_CURRENT_ACCOUNT": "1234123412341234"
+  },
+  {
+    "P_ID": 2,
+    "ROLE": "USER",
+    "P_EMAIL": "user1@sandia.com",
+    "P_USERNAME": "user1",
+    "P_PASSWORD": "Ab123456",
+    "P_NAME": "User 1",
+    "P_LASTNAME": "Sandia",
+    "P_TELEPHONE": "987654321",
+    "U_GENDER": "MALE",
+    "U_CARD": "4321432143214321"
+  },
+  {
+    "P_ID": 3,
+    "ROLE": "USER",
+    "P_EMAIL": "user2@sandia.com",
+    "P_USERNAME": "user2",
+    "P_PASSWORD": "Ab123456",
+    "P_NAME": "User 2",
+    "P_LASTNAME": "Sandia",
+    "P_TELEPHONE": "987867321",
+    "U_GENDER": "FEMALE",
+    "U_CARD": "4321432337914321"
+  },
+  {
+    "P_ID": 4,
+    "ROLE": "USER",
+    "P_EMAIL": "user3@sandia.com",
+    "P_USERNAME": "user3",
+    "P_PASSWORD": "Ab123456",
+    "P_NAME": "User 3",
+    "P_LASTNAME": "Sandia",
+    "P_TELEPHONE": "687864451",
+    "U_GENDER": "OTHER",
+    "U_CARD": "4305332143214321"
+  }
+]
